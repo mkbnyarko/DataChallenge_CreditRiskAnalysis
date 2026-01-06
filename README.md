@@ -30,7 +30,6 @@ Key characteristics:
 - Presence of missing values and class imbalance
 
 *The dataset was provided exclusively for the competition.*
-The final solution was ranked 1st overall based on model performance, clarity of insights, and presentation quality.
 
 ### 📈 Results
 What truly set our solution apart from other competitors was our **deep, intentional approach to data understanding and preprocessing**.
