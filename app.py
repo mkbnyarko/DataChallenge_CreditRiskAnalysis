@@ -23,8 +23,11 @@ if app_mode == "Home":
     
     # Display train data
     st.write("Train Data Sample:")
-    loan_df = pd.read_csv("loan_df.csv")
-    st.write(loan_df.head())
+    df = pd.read_csv("credit_risk.csv")
+    df = df.set_index("Id")
+    df['Home'] = df['Home'].str.capitalize()
+    df['Intent'] = df['Intent'].str.capitalize()
+    st.write(df.sample(n=5, random_state=13))
 
 # Function to encode categorical features
 def encoder(df):
