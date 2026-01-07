@@ -5,7 +5,9 @@
 ### 📌 Project Overview
 This project presents a credit risk analysis solution developed for the Blossom Academy 2024 Data Fair Data Challenge. The objective of the challenge was to analyze customer credit data and build a robust model capable of predicting credit risk to support better lending decisions.
 
-Our team developed an end-to-end data science solution—from data exploration and feature engineering to modeling and evaluation—which ultimately won 1st place in the competition.
+Our team developed an end-to-end data science solution—from data exploration and feature engineering to modeling and evaluation—which ultimately won 1st place in the competition.  
+
+[Link to Prediction App:](https://datachallenge-creditriskanalysis.streamlit.app/)
 
 ### 👥 Team (DataMinds)
 - Michael Nyarko
