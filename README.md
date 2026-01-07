@@ -7,7 +7,7 @@ This project presents a credit risk analysis solution developed for the Blossom 
 
 Our team developed an end-to-end data science solution—from data exploration and feature engineering to modeling and evaluation—which ultimately won 1st place in the competition.  
 
-[Link to Prediction App:](https://datachallenge-creditriskanalysis.streamlit.app/)
+[Link to Prediction App](https://datachallenge-creditriskanalysis.streamlit.app/)
 
 ### 👥 Team (DataMinds)
 - Michael Nyarko
